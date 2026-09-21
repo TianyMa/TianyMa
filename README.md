@@ -117,13 +117,10 @@ Published as *H. Ma* and *T. Ma*; † denotes first and corresponding author.
 1. **T. Ma**†, G. Qiao, X. Zhang, D. Hou, C. Spataru, G. Nikiforidis, S. Du. "Degradation-Aware Assessment of Dominant Factors in Performance, Durability, and Cost of Proton Exchange Membrane Water Electrolysers." *International Journal of Hydrogen Energy*, 264 (2026) 156855. [`doi`](https://doi.org/10.1016/j.ijhydene.2026.156855)
 2. **H. Ma**†, G. Nikiforidis, C. Spataru. "System Modelling and Sizing Optimisation of PEM-Integrated Hybrid Energy Storage for Data-Centre Resilience." *IET Conference Proceedings*, 2025(44), 149–154. [`doi`](https://doi.org/10.1049/icp.2025.4902)
 3. **H. Ma**†, G. Nikiforidis, S. Du. "Multiscale Modelling and Electrochemical Validation of PEM Electrolyser-Coupled Hybrid Energy Storage Systems." *IEEE SPIES*, pp. 1–6, 2025. [`doi`](https://doi.org/10.1109/SPIES67451.2025.11381511)
-4. S. Ishaq, **H. Ma**, Y. Li, G. Nikiforidis. "Design and Optimisation of Binder-Free rGO/AlO(OH)/Al₂O₃ Aerogels for Energy Storage." *Materials Today Sustainability*, 31 (2025) 101217. [`doi`](https://doi.org/10.1016/j.mtsust.2025.101217)
-5. Y. Li, J. Ren, **H. Ma**, A. N. Campbell. "Technical and Economic Performance Assessment of Blue Hydrogen Production Using a New Configuration Through Modelling and Simulation." *International Journal of Greenhouse Gas Control*, 134 (2024) 104112. [`doi`](https://doi.org/10.1016/j.ijggc.2024.104112)
-
-**Under review**
-
-6. **H. Ma**†, C. Spataru, W. Yang, X. Lv, G. Nikiforidis, P. Carvalho, S. Du. "Uncertainty-Aware Optimisation of PEM-Integrated Hybrid Energy Storage for Data Centres: Cost, Carbon, and Resilience Trade-offs." *Applied Energy*, 2026.
-7. **H. Ma**†, G. Nikiforidis, C. Spataru. "Operational Modelling and Resilience-Oriented Sizing of Hybrid Battery–Hydrogen Storage Systems for Mission Critical Data Centres." *IET Smart Grid*, 2026.
+4. **H. Ma**†, C. Spataru, W. Yang, X. Lv, G. Nikiforidis, P. Carvalho, S. Du. "Uncertainty-Aware Optimisation of PEM-Integrated Hybrid Energy Storage for Data Centres: Cost, Carbon, and Resilience Trade-offs." *Applied Energy*, 2026.
+5. **H. Ma**†, G. Nikiforidis, C. Spataru. "Operational Modelling and Resilience-Oriented Sizing of Hybrid Battery–Hydrogen Storage Systems for Mission Critical Data Centres." *IET Smart Grid*, 2026.
+6. S. Ishaq, **H. Ma**, Y. Li, G. Nikiforidis. "Design and Optimisation of Binder-Free rGO/AlO(OH)/Al₂O₃ Aerogels for Energy Storage." *Materials Today Sustainability*, 31 (2025) 101217. [`doi`](https://doi.org/10.1016/j.mtsust.2025.101217)
+7. Y. Li, J. Ren, **H. Ma**, A. N. Campbell. "Technical and Economic Performance Assessment of Blue Hydrogen Production Using a New Configuration Through Modelling and Simulation." *International Journal of Greenhouse Gas Control*, 134 (2024) 104112. [`doi`](https://doi.org/10.1016/j.ijggc.2024.104112)
 
 <!--
 Publications stay under the name each was actually published with. That
